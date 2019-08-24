@@ -1,0 +1,4 @@
+mkdir data
+mkdir data/db
+mkdir log
+mongod --dbpath ./data/db --fork --logpath ./log/mongodb.log
