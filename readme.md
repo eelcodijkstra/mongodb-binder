@@ -3,6 +3,15 @@
 Dit is het materiaal bij de workshop NoSQL databases en Linked Data.
 Het materiaal is bedoeld voor het keuzethema Databases in het Informatica-examenprogramma 2019.
 
+Je kunt deze Notebooks uitvoeren via [Binder](https://mybinder.org/v2/gh/infvo/mongodb-binder.git/master?filepath=Inhoud.ipynb)
+Je krijgt dan tijdelijk een eigen server toegewezen;
+deze wordt opgeruimd als je niet meer bezig bent.
+
+De begeleidende materiaal kun je online vinden op:
+
+* [Inleiding databases](https://infvo.github.io/db-0)
+* [NoSQL en Linked data](https://infvo.github.io/nosql-ld)
+
 ## Jupyter Notebooks
 
 Als middel voor het oefenen met MongoDB gebruiken we Jupyter Notebooks.
@@ -28,29 +37,17 @@ Als voorkennis voor dit onderdeel gaan we uit van een redelijke kennis van Pytho
 
 Enige kennis van JavaScript is ook handig: JavaScript is de "moedertaal" van MongoDB.
 
-## Opmerkingen
-
-* het bestand `mongopath` bevat de systeem-map waarin het mongopath-programma te vinden is.
-    * voor Linux is dit: `/usr/bin/`
-    * als het inlezen van de voorbeelddata niet als resultaat "0" heeft, is deze waarde waarschijnlijk niet correct.
-
 ## Inhoud
 
 Zie [Inhoud.ipynb](Inhoud.ipynb)
 
-## Nieuwere versie
+## Actuele en nieuwere versie
 
+De actuele versie vind je op GitHub: https://github.com/infvo/mongodb-binder.
 Dit materiaal wordt nog bijgewerkt en aangepast op basis van feedback van gebruikers.
+De nieuwste versie vind je op: https://github.com/eelcodijkstra/mongodb-binder.
 
-Voordat je de nieuwste versie ophaalt, kun je de huidige versie bewaren.
-Dit is zinvol als je je eigen uitwerkingen in de notebooks hebt staan:
-
+Als je via de opdrachtregel (command line) werkt, haal je de huidige versie op met:
 ```
- mv ieni2018-db ieni2018-db.sav
-```
-
-Je kunt de nieuwste versie krijgen door de volgende opdracht in een terminal-venster:
-
-```
-git clone https://github.com/infvo/ieni2018-db.git
+git clone https://github.com/infvo/mongodb-binder.git
 ```
