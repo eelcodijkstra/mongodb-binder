@@ -3,9 +3,10 @@
 Dit is het materiaal bij de workshop NoSQL databases en Linked Data.
 Het materiaal is bedoeld voor het keuzethema Databases in het Informatica-examenprogramma 2019.
 
-Je kunt deze Notebooks uitvoeren via [Binder](https://mybinder.org/v2/gh/infvo/mongodb-binder.git/master?filepath=Inhoud.ipynb)
+Je kunt deze Notebooks uitvoeren via [Binder](https://mybinder.org/v2/gh/eelcodijkstra/mongodb-binder.git/master?filepath=Inhoud.ipynb)
 Je krijgt dan tijdelijk een eigen server toegewezen;
-deze wordt opgeruimd als je niet meer bezig bent.
+deze wordt opgeruimd als je niet meer bezig bent. Klik op de Binder badge:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/eelcodijkstra/mongodb-binder/master?filepath=Inhoud.ipynb)
 
 De begeleidende materiaal kun je online vinden op:
 
