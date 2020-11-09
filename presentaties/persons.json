@@ -1,0 +1,6 @@
+{"_id": 1, "naam": "Jan de Vries", "email": "jandevries1@kpnmail.nl", "plaats": "Roosendaal", "events": [1,3,4]}
+{"_id": 2, "naam": "Erik Bakker", "email": "erikB@ziggomail.nl", "plaats": "Tilburg", "events":[1,2]}
+{"_id": 3, "naam": "Frans Gerrits", "email": "fg23@mymail.net", "plaats": "Tilburg", "events":[2]}
+{"_id": 4, "naam": "Joke Boer", "email": "jboer@farmer.net", "plaats": "Breda", "events":[2,5]}
+{"_id": 5, "naam": "Anna Bouma", "email": "anna.bouma@fmail.com", "plaats": "Breda", "events":[2,4]}
+{"_id": 6, "naam": "Linda Fransen", "email": "lindaf78@mymail.net", "plaats": "Tilburg", "events":[1,3,5]}
