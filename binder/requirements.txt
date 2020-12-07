@@ -2,3 +2,5 @@ numpy
 pandas
 pymongo
 rise
+bs4
+pyld
